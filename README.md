@@ -15,7 +15,7 @@ A Ruby on Rails web app that allows party goers to add songs to a party playlist
 [Pivotal Tracker](https://www.pivotaltracker.com/s/projects/1041074)
 
 ##ERD
-[ERD](http://i.imgur.com/8iE0WwY.png)
+[ERD][http://i.imgur.com/8iE0WwY.png]
 
 Project Collaborators:
 
